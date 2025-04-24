@@ -11,6 +11,6 @@ Detect **domain-based dusting activity** in Solana transactions using real-time 
 ## 🛠 Setup
 
 ```bash
-git clone https://github.com/jms1192/dusting-detector.git
+git clone https://github.com/jms1192/dust-tx_checker.git
 cd dusting-detector
 pip install -r requirements.txt
