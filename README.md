@@ -1,16 +1,16 @@
-# 🧹 Real-Time Solana Dusting Detector
+🧹 Real-Time Solana Domain-Based Dusting Detector
+Identify domain-based dusting activity in Solana transactions using live data.
 
-Detect dusting activity in Solana transactions using real-time data.
+✅ Uses Helius API to parse and decode transaction senders
 
-- ✅ Uses Helius API for decoded transfers
-- ✅ Uses Flipside’s live dusting wallet list
-- ✅ Returns verdicts: `DUSTING` or `clean`
+✅ Leverages Flipside's curated list of known dusting wallets
 
----
+✅ Flags each transaction as DUSTING or clean
 
-## 🛠 Setup
-
-```bash
+🛠 Setup
+bash
+Copy
+Edit
 git clone https://github.com/YOUR_HANDLE/dusting-detector.git
 cd dusting-detector
 pip install -r requirements.txt
