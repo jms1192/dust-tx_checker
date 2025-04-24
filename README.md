@@ -9,6 +9,9 @@ Detect **domain-based dusting activity** in Solana transactions using real-time 
 - ✅ List of dusters reflects the **current set of active attackers**
 
 ---
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## 🛠 Setup
 
