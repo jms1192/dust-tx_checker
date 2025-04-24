@@ -2,9 +2,11 @@
 
 Detect **domain-based dusting activity** in Solana transactions using real-time data.
 
+- ✅ Built for **real-time dusting detection**
 - ✅ Uses Helius API to decode transaction transfer activity
-- ✅ Cross-checks senders against Flipside's live dusting wallet list
+- ✅ Cross-checks senders against **Flipside's live dusting wallet list**
 - ✅ Flags transactions as `DUSTING` or `clean`
+- ✅ List of dusters reflects the **current set of active attackers**
 
 ---
 
